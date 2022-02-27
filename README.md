@@ -2,13 +2,6 @@
 
 This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0).
 
-## Table of contents
-
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-
 ### The challenge
 
 Users should be able to:
