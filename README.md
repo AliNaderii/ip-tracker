@@ -15,9 +15,11 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://maestro-ip-tracker.netlify.app/)
 
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
+- [react-leaflet](https://react-leaflet.js.org/)
+- [ipify](https://www.ipify.org/)
